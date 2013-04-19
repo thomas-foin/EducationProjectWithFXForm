@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Maven: javafx:javafx:2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jfxrt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
